@@ -1,0 +1,51 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body{
+  font-size: 1.6rem;
+}
+
+.logo{
+  font-size: 2.5rem;
+  color: #fff;
+  
+}
+
+.login{
+  font-size: 1.3rem;
+  background-color: rgb(125, 84, 173);
+  color: #fff;
+  border-radius: .7rem;
+  padding: .9rem;
+  width: 11rem;
+  text-align: center;
+}
+
+
+.login1 {
+  font-size: 2.9rem;
+  background-color: rgb(125, 84, 173);
+  border-radius: 2rem;
+  padding: 1rem;
+  width: 14rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: aliceblue;
+  width: auto;
+  
+}
+
+
+.background{
+  background-image: url(imagen/fondo.png);
+  
+}
